@@ -2,6 +2,9 @@
 This project utilizes the Spotify Web API to gather data on new releases and converts the output of the HTTP response into a CSV file for further analysis in Excel. It also uses the Openpyxl library to extract images from the Excel sheet and perform analysis on them in Python.
 
 
+![s drawio](https://user-images.githubusercontent.com/86083079/231360707-d96f7b81-4f0a-491b-aff6-db65a50daef8.png)
+
+
 ## Setup
 1- First, you will need to create a Spotify Developer account and create a new app to obtain a client ID and client secret key. You can do so by going to the https://developer.spotify.com/dashboard and creating a new app.
 
