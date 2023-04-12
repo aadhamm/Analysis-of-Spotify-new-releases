@@ -28,7 +28,10 @@ pip install -r requirements.txt
 
 ## Conclusion
 
-This project provides a simple way to gather and analyze new release data from Spotify using Python, Openpyxl, and Excel. Feel free to modify the code to fit your specific needs or to add additional features.
+This project provides a simple way to gather and analyze new release data from Spotify using Python, Openpyxl, and Excel. Feel free to modify the code to fit your specific needs or to add additional featuresm, mainly based on two things:
+
+1. Scopes: https://developer.spotify.com/documentation/web-api/concepts/scopes
+2. Endpoints: https://developer.spotify.com/documentation/web-api/reference/get-users-top-artists-and-tracks
 
 
 
